@@ -11,5 +11,5 @@
 * Roadmap
 * Tractie
 * Bestedingen
-* Impediments
 * Activiteiten
+* Impediments

@@ -17,5 +17,6 @@ Conclusies uit de workshop
 * Vragenlijst voor devers
     * Waarom gebruik je Stryker wel/niet?
     * Wat mis je nog?
-    * etc
-* We hebben ontelbare ideeën :)
+    * ...
+* "Expirimenten" doen
+    * We hebben ontelbare ideeën :)

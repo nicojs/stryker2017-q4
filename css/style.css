@@ -1,0 +1,12 @@
+.reveal section img {
+    border: none;
+    vertical-align: middle
+}
+
+.reveal section img.no-border {
+    box-shadow: none;
+}
+
+.reveal section img.small-img-1000 {
+    max-width: 500px;
+}
