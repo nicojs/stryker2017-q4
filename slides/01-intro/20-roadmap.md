@@ -1,10 +1,6 @@
 ## Roadmap
 
-* ~~Babel~~
 * Webpack
-* Angular support
-* Better jest support
-* React support
 * Dashboard
 * Vuejs support
 * Release v1
@@ -17,7 +13,7 @@
 ### Angular
 
 1. Ondersteuning voor Angular projecten in Stryker <!-- .element class="fragment" data-fragment-index="1" -->
-1. Muteert alleen de code van de ontwikkelaar <!-- .element class="fragment" data-fragment-index="2" -->
+1. Muteert de (typescript) code van de ontwikkelaar <!-- .element class="fragment" data-fragment-index="2" -->
 
 ---
 

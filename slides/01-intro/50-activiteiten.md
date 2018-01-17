@@ -12,11 +12,11 @@
 
 Conclusies uit de workshop
 
-* Meer metrieken verzamelen
+* Meer metrieken verzamelen <!-- .element class="fragment" data-fragment-index="0" -->
     * [issue 565](https://github.com/stryker-mutator/stryker/issues/565) <!--.element target="_blank"-->
-* Vragenlijst voor devers
+* Vragenlijst voor devers <!-- .element class="fragment" data-fragment-index="1" -->
     * Waarom gebruik je Stryker wel/niet?
     * Wat mis je nog?
     * ...
-* "Expirimenten" doen
+* "Expirimenten" doen <!-- .element class="fragment" data-fragment-index="2" -->
     * We hebben ontelbare ideeën :)

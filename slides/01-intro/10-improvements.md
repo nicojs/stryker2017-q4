@@ -6,3 +6,4 @@
 * ~Dashboard
 * ~Webpack support
 * ~Angular support
+* ~React support
