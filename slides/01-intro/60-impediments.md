@@ -10,6 +10,7 @@
     * Zit wel voortgang in
 * Vuejs support <!-- .element class="fragment" data-fragment-index="1" -->
     * Vuejs functionaliteit zit verweven in de bundler (webpack/browserify)
+* Website redesign <!-- .element class="fragment" data-fragment-index="2" -->
 
 ---
 
